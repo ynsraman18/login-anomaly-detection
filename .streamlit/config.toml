@@ -7,5 +7,5 @@ enableXsrfProtection = false
 primaryColor="#ffffff"
 backgroundColor="#050505"
 secondaryBackgroundColor="#111111"
-textColor="#000000"
+textColor="#ffffff"
 font="sans serif"
