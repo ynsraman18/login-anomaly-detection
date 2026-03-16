@@ -1,5 +1,9 @@
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
 [theme]
-# Force the default Streamlit theme away from its native red/pink
 primaryColor="#ffffff"
 backgroundColor="#050505"
 secondaryBackgroundColor="#111111"
