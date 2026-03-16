@@ -1,0 +1,7 @@
+[theme]
+# Force the default Streamlit theme away from its native red/pink
+primaryColor="#ffffff"
+backgroundColor="#050505"
+secondaryBackgroundColor="#111111"
+textColor="#000000"
+font="sans serif"
